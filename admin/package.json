@@ -1,0 +1,25 @@
+{
+  "name": "admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react-toastify": "^4.0.2",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-toastify": "^10.0.6",
+    "swiper": "^11.1.14"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
